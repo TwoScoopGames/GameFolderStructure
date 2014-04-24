@@ -10,6 +10,7 @@ GameFolderStructure
 	* fonts
 	* audio
 * ios
+* itch.io
 * linux
 * mac
 * promo
