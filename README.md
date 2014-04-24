@@ -4,7 +4,7 @@ GameFolderStructure
 
 * android
 * chrome-web-store
-*html
+* html
 	* images
 	* splat
 	* fonts
