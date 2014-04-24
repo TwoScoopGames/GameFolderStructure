@@ -12,7 +12,7 @@ GameFolderStructure
 * ios
 * linux
 * mac
-*promo
+* promo
 	* progress-shots
 * source-artwork
 * windows
